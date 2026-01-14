@@ -50,7 +50,8 @@ The dashboard includes:
 - Interactive slicers for content type selection
 
 ###  Dashboard Preview
-![Dashboard Overview](dashboard_overview.png)
+![Daily Posting vs Followers Growth Model Dashboard](https://github.com/user-attachments/assets/5ff661a1-20aa-484c-8f7b-4e7d64a14fc1)
+
 
 ---
 
